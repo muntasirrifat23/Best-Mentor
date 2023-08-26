@@ -1,0 +1,17 @@
+[
+    {
+        "img":"./public/add1.jpg",
+        "name":"Albert Bendelac",
+        "designation": "A.N. Pritzker Distinguished Service Professor, Department of Pathology and the College"
+    },
+    {
+        "img":"./public/add2.jpeg",
+        "name":"Michael Kitces",
+        "designation": "Head of Planning Strategy Buckingham Strategic Wealth"
+    },
+    {
+        "img":"./public/add.3.jpeg",
+        "name":"Marguerita Cheng",
+        "designation": "Founder & CEO, Blue Ocean Global Wealth"
+    }
+]

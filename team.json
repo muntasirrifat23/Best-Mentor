@@ -1,0 +1,75 @@
+[
+    {
+        "university": "University of Cambridge",
+        "image":"./public/1.jpg",
+        "mentor":"Thomas Roulet",
+        "country":"UK"
+    },
+    {
+        "university": "University of Oxford",
+        "image":"./public/2.jpeg",
+        "mentor":"Ho-Yin Mak",
+        "country":"United States"
+    },
+    {
+        "university": "University of California",
+        "image":"./public/3.jpg",
+        "mentor":"David Baillot",
+        "country":"California"
+    },
+    {
+        "university": "ETH Zurich",
+        "image":"./public/4.avif",
+        "mentor":"Günther Dissertori",
+        "country":"Italy"
+    },
+    {
+        "university": "Massachusetts Institute of Technology (MIT)",
+        "image":"./public/5.jpg",
+        "mentor":"Jennifer Chu",
+        "country":"China"
+    },
+    {
+        "university": "Harvard University",
+        "image":"./public/6.jpg",
+        "mentor":"Mikhail Lukin",
+        "country":"Russia"
+    },
+    {
+        "university": "Stanford University ",
+        "image":"./public/7.jpg",
+        "mentor":"Manu Prakash",
+        "country":"India"
+    },
+    {
+        "university": "National University of Singapore (NUS) ",
+        "image":"./public/8.jpg",
+        "mentor":"Lynette Wong",
+        "country":"SINGAPORE"
+    },
+    {
+        "university": "University of Chicago ",
+        "image":"./public/9.jpg",
+        "mentor":"Claudia Brittenham",
+        "country":"Latin American"
+    },
+    {
+        "university": "Cornell University ",
+        "image":"./public/10.webp",
+        "mentor":"Lin William Cong",
+        "country":"United States "
+    },
+    {
+        "university": "Yale University ",
+        "image":"./public/11.jpg",
+        "mentor":"Laurie Santos",
+        "country":""
+    },
+    
+    {
+        "university": "University of Toronto ",
+        "image":"./public/12.jpg",
+        "mentor":"Jordan Peterson",
+        "country":"Canada"
+    }
+]
