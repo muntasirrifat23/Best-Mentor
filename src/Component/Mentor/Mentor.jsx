@@ -18,7 +18,7 @@ const Mentor = () => {
     return (
         <div className='bg-white text-black'>
             <Helmet>
-                <title>mentor Page | Mentor</title>
+                <title>Team Page | Mentor</title>
             </Helmet>
 
             <div className='text-center text-3xl font-bold underline text-blue-900'>
